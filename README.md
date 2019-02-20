@@ -10,6 +10,8 @@ Serverside functions are at functions/index.js
 <br>
 Frontside is at public/index.js
 <br>
+<br>
 Note: Missed some data between 18.2 20:00 - 19.2 2:00 and 17.2 14:00 - 17:00
+<br>
 <br>
 ps.There might be hidden secret somewhere :--00
